@@ -2,6 +2,8 @@
 Hello, I am Muchkundraje Thote. I am studying Artificial Intelligence and Data Science (AIDS) at Yeshwantrao Chavan College of Engineering. I am a web developer specializing in both frontend and backend development, as well as data analysis. Currently, I am doing an internship at Vectortek Labs Pvt. Ltd. Additionally, I am working with my coding team on the creation of the Engineering India YCCE website.
 
 
+[![](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/muchkund-thote) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muchkundthote@gmail.com) 
 
