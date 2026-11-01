@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m Muchkundraje Thote, a final-year B.Tech student in Artificial Intelligence and Data Science at YCCE, Nagpur, and a full-stack developer who enjoys building real products with AI behind them. I have interned at PropertyVerified and Vectortek Lab, where I shipped real-time collaboration features, built scalable REST APIs and integrated payments with Razorpay. My projects include Finsight, an AI finance coach, and a resource allocation system that YCCE’s department staff now use for timetable scheduling. I’m the 2nd Runner-Up at the NASA Space Apps Challenge Nagpur and ranked 1st in Semester 3 at my college. I’m currently looking for internship and full-time opportunities in full-stack development and applied AI, and I’m always open to collaborating on hackathons and open-source projects. You can reach me at muchkundthote@gmail.com or through my portfolio at muchku.me.
 
+![Image](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muchkund_3504r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchkund-thote) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMjq77BunT1-hz8x6qar18A) 
