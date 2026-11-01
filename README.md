@@ -17,13 +17,13 @@ I’m Muchkundraje Thote, a final-year B.Tech student in Artificial Intelligence
       <h3>💸 Finsight</h3>
       <p>AI finance coach that parses SMS transactions, classifies spending into 12 categories (92% accuracy) and builds investment dashboards.</p>
       <p><b>Flutter · Python · XGBoost · Firebase</b></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/finsight">View Project →</a>
+      <a href="https://github.com/MUCHKUNDRAJE/Department-Timetable-Orchestration">View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🗓️ Resources Allocation System</h3>
       <p>Timetable scheduling for classes, labs, rooms and faculty. Replaced manual scheduling at YCCE and is in active production use.</p>
       <p><b>Next.js · Node.js · AWS EC2</b></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/resource-allocation-system">View Project →</a>
+      <a href="https://github.com/MUCHKUNDRAJE/Department-Timetable-Orchestration">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -31,13 +31,13 @@ I’m Muchkundraje Thote, a final-year B.Tech student in Artificial Intelligence
       <h3>🤖 ClickMate</h3>
       <p>RAG-based AI agent that embeds task data from 3 APIs to automate progress tracking, saving teams 2+ hours a week.</p>
       <p><b>JavaScript · Gemini · Supabase · ClickUp API</b></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/clickmate">View Project →</a>
+      <a href="https://github.com/MUCHKUNDRAJE/ClickMate">View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 AyuUrja College DBMS</h3>
       <p>Digitized health records of 1,000+ students, cutting administrative processing time by 65%.</p>
       <p><b>React · Spring Boot · MySQL</b></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/ayuurja-dbms">View Project →</a>
+      <a href="https://github.com/MUCHKUNDRAJE/Ayurveda">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -45,13 +45,13 @@ I’m Muchkundraje Thote, a final-year B.Tech student in Artificial Intelligence
       <h3>🧠 Mental Health Risk Predictor</h3>
       <p>Explainable ML classifier (79% accuracy) with SHAP insights and a live Streamlit dashboard.</p>
       <p><b>Python · Scikit-learn · SHAP · Streamlit</b></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/mental-health-risk-predictor">View Project →</a>
+      <a href="https://github.com/MUCHKUNDRAJE/Student-Mental-Health-Risk-Predictor">View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>✈️ AeroIntel</h3>
       <p>Offline aircraft maintenance assistant powered by a multi-agent AI pipeline.</p>
       <p><b>Python · Multi-Agent AI</b></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/aerointel">View Project →</a>
+      <a href="https://github.com/MUCHKUNDRAJE/Aircraft-instructor">View Project →</a>
     </td>
   </tr>
 </table>
