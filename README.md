@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Muchkundraje Thote, a final-year B.Tech student in AI and Data Science at YCCE, Nagpur, and a full-stack developer who builds real products with AI behind them. I’ve interned at PropertyVerified and Vectortek Lab and was 2nd Runner-Up at NASA Space Apps Challenge Nagpur. I’m looking for internship and full-time opportunities in full-stack development and applied AI. Reach me at muchkundthote@gmail.com or muchku.me.
+I'm Muchkundraje Thote, a final-year B.Tech student in AI and Data Science at YCCE, Nagpur, and a full-stack developer who builds real **projects** with AI behind them. I've done an **internship** at PropertyVerified and Vectortek Lab and was 2nd Runner-Up at NASA Space Apps Challenge Nagpur. I'm looking for **internship** and full-time opportunities in full-stack development and applied AI. Reach me at [muchkundthote@gmail.com](mailto:muchkundthote@gmail.com) or [muchku.me](https://muchku-portfolio.vercel.app/).
 
 <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Alt text" width="100%">
 
